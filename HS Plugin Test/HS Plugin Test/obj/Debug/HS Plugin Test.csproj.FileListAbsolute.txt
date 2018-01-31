@@ -1,0 +1,40 @@
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\HS Plugin Test.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\HS Plugin Test.pdb
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\HearthstoneDeckTracker.exe
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\MahApps.Metro.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\HearthMirror.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\HearthDb.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\HSReplay.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\LiveCharts.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\HearthWatcher.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\Squirrel.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\NuGet.Squirrel.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\SharpRaven.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\WPFLocalizeExtension.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\Splat.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\SharpCompress.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\Mono.Cecil.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\XAMLMarkupExtensions.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\HearthstoneDeckTracker.exe.config
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\de-DE\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\fr-FR\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\ja-JP\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\ko-KR\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\pl-PL\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\pt-BR\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\pt-PT\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\ru-RU\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\uk-UA\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\zh-CN\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\bin\Debug\zh-TW\HearthstoneDeckTracker.resources.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\obj\Debug\HS Plugin Test.csprojResolveAssemblyReference.cache
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\obj\Debug\HS Plugin Test.csproj.CoreCompileInputs.cache
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\obj\Debug\HS Plugin Test.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\HS Plugin Test\HS Plugin Test\obj\Debug\HS Plugin Test.pdb
